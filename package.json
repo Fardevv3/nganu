@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/Gimenz/nganu#readme",
   "dependencies": {
-    "@adiwajshing/baileys": "github:adiwajshing/baileys",
+    "@adiwajshing/baileys": "^4.2.0",
     "@vitalets/google-translate-api": "^8.0.0",
     "1cak-scraper": "^0.0.2",
     "canvas": "^2.7.0",
